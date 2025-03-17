@@ -1,5 +1,5 @@
-## 👋 Olá, eu sou o Dias!
-### 🚀 Desenvolvedor Front-end | Designer | Estudante de ADS na FIAP
+## 👋 Olá, meu nome é Gabriel Dias Menezes!
+### 🚀 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 
 Sou apaixonado por tecnologia, design e inovação. Tenho um olhar crítico para interfaces visuais e consigo transformar ideias em experiências digitais incríveis. Atualmente, estou no **3º semestre de Análise e Desenvolvimento de Sistemas na FIAP**, onde venho aprimorando minhas habilidades técnicas e criativas.
 
