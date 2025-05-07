@@ -42,7 +42,6 @@ Sou apaixonado por tecnologia, design e inovação. Tenho um olhar crítico para
 
 ## 🚀 Como me encontrar?
 
-- 📌 Saiba mais sobre mim: [Sobre mim](https://diasportfolio.vercel.app/sobre-mim)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario/) | 📧 **seu-email@email.com**
 
 
