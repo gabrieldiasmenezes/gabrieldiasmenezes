@@ -42,6 +42,6 @@ Sou apaixonado por tecnologia, design e inovação. Tenho um olhar crítico para
 
 ## 🚀 Como me encontrar?
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario/) | 📧 **seu-email@email.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario/) | 📧 **g.dias120306@gmail.com**
 
 
