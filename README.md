@@ -30,8 +30,8 @@ Sou apaixonado por tecnologia, design e inovação. Tenho um olhar crítico para
 - [**Meu Portfólio**](https://diasportfolio.vercel.app) - Um site interativo e animado com elementos 3D, destacando meus projetos e experiência.
 - [**Box Pokémon**](https://github.com/gabrieldiasmenezes/Box-Pokemon) - Aplicação para organização e visualização de Pokémon.
 - [**Sistema de Reserva Sovrano**](https://github.com/gabrieldiasmenezes/reserva-Sovrano) - Plataforma para reservas online com UI sofisticada.
-- [**PetService**](https://github.com/gabrieldiasmenezes/PetService) - Plataforma para gerenciamento de serviços pet.
-- [**Nautilus Monitoring**](https://github.com/gabrieldiasmenezes/Nautilus-Monitoring) - Sistema para monitoramento de ambientes aquáticos.
+- [**DashVendas**](https://github.com/gabrieldiasmenezes/DashVendas) - Aplicação em Python que automatiza a análise de vendas a partir de um CSV e gera um relatório financeiro completo em PDF
+- [**Nautilus Monitoring**](https://github.com/gabrieldiasmenezes/New-Nautilus-Monitoring) - Sistema para monitoramento de ambientes aquáticos.
 - [**SolarFlower**](https://github.com/gabrieldiasmenezes/solarflower) - Projeto sustentável voltado para captação de energia solar.
 
 
