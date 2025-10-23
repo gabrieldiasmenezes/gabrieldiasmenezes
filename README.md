@@ -1,7 +1,7 @@
 ## 👋 Olá, meu nome é Gabriel Dias Menezes!
 ### 🚀 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 
-Sou apaixonado por tecnologia, design e inovação. Tenho um olhar crítico para interfaces visuais e consigo transformar ideias em experiências digitais incríveis. Atualmente, estou no **3º semestre de Análise e Desenvolvimento de Sistemas na FIAP**, onde venho aprimorando minhas habilidades técnicas e criativas.
+Sou apaixonado por tecnologia, design e inovação. Tenho um olhar crítico para interfaces visuais e consigo transformar ideias em experiências digitais incríveis. Atualmente, estou no **ultimo de Análise e Desenvolvimento de Sistemas na FIAP**, onde venho aprimorando minhas habilidades técnicas e criativas.
 
 - Experiência em otimização de processos, incluindo um projeto realizado para a **Porto Seguro**, focado na melhoria da experiência do usuário.
 - Participação em um projeto de **sustentabilidade**, em parceria com **Ultragaz, Ultracargo, SAP, FIA e Mahindra**, desenvolvendo soluções para desafios ambientais.
