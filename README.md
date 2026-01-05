@@ -1,10 +1,12 @@
 ## 👋 Olá, meu nome é Gabriel Dias Menezes!
-### 🚀 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 
-Sou apaixonado por tecnologia, design e inovação. Tenho um olhar crítico para interfaces visuais e consigo transformar ideias em experiências digitais incríveis. Atualmente, estou no **ultimo de Análise e Desenvolvimento de Sistemas na FIAP**, onde venho aprimorando minhas habilidades técnicas e criativas.
+Sou desenvolvedor Full Stack, com formação em Análise e Desenvolvimento de Sistemas pela FIAP, atuando no desenvolvimento de aplicações modernas, escaláveis e centradas na experiência do usuário. Tenho interesse especial em unir tecnologia, design e performance, buscando sempre entregar soluções bem estruturadas, funcionais e visualmente consistentes.
 
-- Experiência em otimização de processos, incluindo um projeto realizado para a **Porto Seguro**, focado na melhoria da experiência do usuário.
-- Participação em um projeto de **sustentabilidade**, em parceria com **Ultragaz, Ultracargo, SAP, FIA e Mahindra**, desenvolvendo soluções para desafios ambientais.
+Ao longo da minha formação, participei de projetos acadêmicos e corporativos que envolveram desde a concepção da interface até a implementação de regras de negócio e integrações, o que me proporcionou uma visão completa do ciclo de desenvolvimento de software.
+
+Tive a oportunidade de atuar em iniciativas voltadas à otimização de processos e melhoria de experiência do usuário, incluindo um projeto desenvolvido para a Porto Seguro, além de participar de um projeto de sustentabilidade e inovação, realizado em parceria com Ultragaz, Ultracargo, SAP, FIA e Mahindra, com foco em soluções tecnológicas para desafios ambientais.
+
+Atualmente, sigo aprimorando minhas habilidades técnicas e explorando boas práticas de desenvolvimento, arquitetura de software e usabilidade, sempre com o objetivo de evoluir como profissional Full Stack.
 
 
 ---
