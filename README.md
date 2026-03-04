@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=00DCFF&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Python+%7C+SQL;Transformando+dados+em+decis%C3%B5es;Automação+%7C+Dashboards+%7C+Insights" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 📊 Sobre Mim
