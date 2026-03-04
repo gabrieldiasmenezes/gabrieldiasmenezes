@@ -50,27 +50,26 @@ Busco sempre unir clareza analítica, organização estrutural e aplicação pr�
 
 ## 🚀 Projetos em Destaque
 
-🔹 **DashVendas** – Automação de análise de vendas com geração de relatório financeiro completo em PDF e visualização de KPIs.
+🔹 **[DashVendas](https://github.com/gabrieldiasmenezes/dashVendas)**  
+Automação de análise de vendas em Python com geração de relatório financeiro completo em PDF, cálculo de KPIs e visualização gráfica.
 
-🔹 **SmartFinance** – Dashboard financeiro mobile com integração de IA generativa.
+🔹 **[SmartFinance](https://github.com/gabrieldiasmenezes/smartFinance)**  
+Dashboard financeiro mobile com integração de IA generativa para transformação de planilhas em visualizações estratégicas.
 
-🔹 **Sovrano API** – API estruturada para organização e gestão de dados operacionais.
+🔹 **[Sovrano API](https://github.com/gabrieldiasmenezes/sovrano-api)**  
+API estruturada em Spring Boot para organização e gestão de dados operacionais.
 
-🔹 **Pokémon Box** – Sistema para estruturação e controle de dados simulando cenários reais.
+🔹 **[Pokémon Box](https://github.com/gabrieldiasmenezes/Box-Pokemon)**  
+Sistema em Python para estruturação e controle de dados, simulando cenários reais de organização de informações.
 
-📌 Explore todos os projetos nos meus repositórios.
+📌 Explore todos os projetos nos meus [repositórios](https://github.com/gabrieldiasmenezes):  
 
 ---
 
 ## 📈 Estatísticas GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieldiasmenezes&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
