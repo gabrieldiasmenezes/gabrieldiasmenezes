@@ -1,49 +1,104 @@
-## 👋 Olá, meu nome é Gabriel Dias Menezes!
+<h1 align="center">Gabriel Dias Menezes</h1>
 
-Sou desenvolvedor Full Stack, com formação em Análise e Desenvolvimento de Sistemas pela FIAP, atuando no desenvolvimento de aplicações modernas, escaláveis e centradas na experiência do usuário. Tenho interesse especial em unir tecnologia, design e performance, buscando sempre entregar soluções bem estruturadas, funcionais e visualmente consistentes.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=00DCFF&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Python+%7C+SQL;Transformando+dados+em+decis%C3%B5es;Automação+%7C+Dashboards+%7C+Insights" />
+</p>
 
-Ao longo da minha formação, participei de projetos acadêmicos e corporativos que envolveram desde a concepção da interface até a implementação de regras de negócio e integrações, o que me proporcionou uma visão completa do ciclo de desenvolvimento de software.
-
-Tive a oportunidade de atuar em iniciativas voltadas à otimização de processos e melhoria de experiência do usuário, incluindo um projeto desenvolvido para a Porto Seguro, além de participar de um projeto de sustentabilidade e inovação, realizado em parceria com Ultragaz, Ultracargo, SAP, FIA e Mahindra, com foco em soluções tecnológicas para desafios ambientais.
-
-Atualmente, sigo aprimorando minhas habilidades técnicas e explorando boas práticas de desenvolvimento, arquitetura de software e usabilidade, sempre com o objetivo de evoluir como profissional Full Stack.
-
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-- ![Pacote Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-- ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![Spline](https://img.shields.io/badge/Spline-FFB400?style=for-the-badge&logo=spline&logoColor=white)
----
-
-## 🌟 Projetos em Destaque
-
-- [**Meu Portfólio**](https://diasportfolio.vercel.app) - Um site interativo e animado com elementos 3D, destacando meus projetos e experiência.
-- [**Box Pokémon**](https://github.com/gabrieldiasmenezes/Box-Pokemon) - Aplicação para organização e visualização de Pokémon.
-- [**Sistema de Reserva Sovrano**](https://github.com/gabrieldiasmenezes/reserva-Sovrano) - Plataforma para reservas online com UI sofisticada.
-- [**DashVendas**](https://github.com/gabrieldiasmenezes/DashVendas) - Aplicação em Python que automatiza a análise de vendas a partir de um CSV e gera um relatório financeiro completo em PDF
-- [**Nautilus Monitoring**](https://github.com/gabrieldiasmenezes/New-Nautilus-Monitoring) - Sistema para monitoramento de ambientes aquáticos.
-- [**SolarFlower**](https://github.com/gabrieldiasmenezes/solarflower) - Projeto sustentável voltado para captação de energia solar.
-
-
-
-📌 **Veja mais projetos no meu GitHub!**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🚀 Como me encontrar?
+## 📊 Sobre Mim
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario/) | 📧 **g.dias120306@gmail.com**
+Profissional orientado a dados, focado na análise, organização e interpretação de informações para geração de insights estratégicos.
 
+Atuo no desenvolvimento de soluções que envolvem:
 
+- 📈 Automação de relatórios financeiros  
+- 📊 Construção de dashboards interativos  
+- ⚙️ Estruturação e modelagem de dados  
+- 🧠 Análise exploratória e geração de KPIs  
+- 🚀 Desenvolvimento de soluções orientadas à decisão  
+
+Busco sempre unir clareza analítica, organização estrutural e aplicação prática da tecnologia.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Análise e Desenvolvimento de Sistemas** – FIAP  
+- **Ciência da Computação** – FIAP (em andamento)
+
+---
+
+## 🛠️ Stack Principal de Dados
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+🔹 **DashVendas** – Automação de análise de vendas com geração de relatório financeiro completo em PDF e visualização de KPIs.
+
+🔹 **SmartFinance** – Dashboard financeiro mobile com integração de IA generativa.
+
+🔹 **Sovrano API** – API estruturada para organização e gestão de dados operacionais.
+
+🔹 **Pokémon Box** – Sistema para estruturação e controle de dados simulando cenários reais.
+
+📌 Explore todos os projetos nos meus repositórios.
+
+---
+
+## 📈 Estatísticas GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Portfólio
+
+🔗 https://diasportfolio.vercel.app  
+
+Portfólio profissional bilíngue (PT/EN) com foco em análise, automação e visualização estratégica de dados.
+
+---
+
+## 🤝 Conecte-se Comigo
+
+<p align="center">
+
+<a href="SEU_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:g.dias120306@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Sempre evoluindo na jornada de dados.
+</p>
