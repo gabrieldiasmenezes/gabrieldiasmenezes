@@ -46,14 +46,14 @@ Busco sempre unir clareza analítica, organização estrutural e aplicação pr�
 
 ## 🚀 Projetos em Destaque
 
-🔹 **[DashVendas](https://github.com/gabrieldiasmenezes/dashVendas)**  
-Automação de análise de vendas em Python com geração de relatório financeiro completo em PDF, cálculo de KPIs e visualização gráfica.
+🔹 **[LedgerView](https://github.com/gabrieldiasmenezes/LedgerView)**  
+Projeto de engenharia e análise de dados que transforma dados de vendas em KPIs e datasets prontos para dashboards.
 
 🔹 **[SmartFinance](https://github.com/gabrieldiasmenezes/smartFinance)**  
 Dashboard financeiro mobile com integração de IA generativa para transformação de planilhas em visualizações estratégicas.
 
-🔹 **[Sovrano API](https://github.com/gabrieldiasmenezes/sovrano-api)**  
-API estruturada em Spring Boot para organização e gestão de dados operacionais.
+🔹 **[DashVendas](https://github.com/gabrieldiasmenezes/dashVendas)**  
+Automação de análise de vendas em Python com geração de relatório financeiro completo em PDF, cálculo de KPIs e visualização gráfica.
 
 🔹 **[Pokémon Box](https://github.com/gabrieldiasmenezes/Box-Pokemon)**  
 Sistema em Python para estruturação e controle de dados, simulando cenários reais de organização de informações.
