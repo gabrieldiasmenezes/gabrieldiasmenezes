@@ -72,7 +72,7 @@ Sistema em Python para estruturação e controle de dados, simulando cenários r
 
 ## 🌐 Portfólio
 
-🔗 https://diasportfolio.vercel.app  
+🔗 https://gabrieldias-six.vercel.app
 
 Portfólio profissional bilíngue (PT/EN) com foco em análise, automação e visualização estratégica de dados.
 
