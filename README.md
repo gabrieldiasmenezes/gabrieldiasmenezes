@@ -83,5 +83,5 @@ Portfólio profissional bilíngue (PT/EN) com foco em análise, automação e vi
 
 ---
 
-🤝 Vamos conversar?
+## 🤝 Vamos conversar?
 <p align="center"> Estou buscando uma oportunidade para aplicar dados na prática e crescer em um time de Analytics/BI.<br/> Me chame no <a href="https://www.linkedin.com/in/SEU-USUARIO">LinkedIn</a> ou por <a href="mailto:g.dias120306@gmail.com">e-mail</a>. 🚀 </p> <!-- FOOTER ANIMADO --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" />
