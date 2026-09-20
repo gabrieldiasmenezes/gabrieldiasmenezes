@@ -1,8 +1,4 @@
-<h1 align="center">Gabriel Dias Menezes</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=00DCFF&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Python+%7C+SQL;Transformando+dados+em+decis%C3%B5es;Automação+%7C+Dashboards+%7C+Insights" />
-</p>
+<!-- HEADER ANIMADO --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Gabriel%20Dias%20Menezes&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20%7C%20BI%20%7C%20Python%20%7C%20SQL&descAlignY=58&descSize=18" /> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00DCFF&center=true&vCenter=true&width=700&height=45&lines=Transformando+dados+em+decis%C3%B5es+%F0%9F%93%8A;Automa%C3%A7%C3%A3o+de+relat%C3%B3rios+com+Python+%F0%9F%90%8D;Dashboards+que+contam+hist%C3%B3rias+%F0%9F%93%88+%2F+BI+%F0%9F%9A%80" alt="Typing SVG" /> </p> <p align="center"> </p> <p align="center"> <a href="https://gabrieldias-six.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00DCFF?style=for-the-badge&logo=vercel&logoColor=black"/></a> <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:g.dias120306@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
 
 ---
 
@@ -55,8 +51,8 @@ Dashboard financeiro mobile com integração de IA generativa para transformaç�
 🔹 **[DashVendas](https://github.com/gabrieldiasmenezes/dashVendas)**  
 Automação de análise de vendas em Python com geração de relatório financeiro completo em PDF, cálculo de KPIs e visualização gráfica.
 
-🔹 **[Pokémon Box](https://github.com/gabrieldiasmenezes/Box-Pokemon)**  
-Sistema em Python para estruturação e controle de dados, simulando cenários reais de organização de informações.
+🔹 **[Pokémon Box](https://github.com/gabrieldiasmenezes/Wavelen)**  
+Sistema de música integrada com um chatbot para auxiliar a escolher músicas baseadas no perfil musical.
 
 📌 Explore todos os projetos nos meus [repositórios](https://github.com/gabrieldiasmenezes):  
 
@@ -76,19 +72,6 @@ Sistema em Python para estruturação e controle de dados, simulando cenários r
 
 Portfólio profissional bilíngue (PT/EN) com foco em análise, automação e visualização estratégica de dados.
 
----
-
-## 🤝 Conecte-se Comigo
-
-<p align="center">
-
-<a href="SEU_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:g.dias120306@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </p>
 
@@ -97,3 +80,8 @@ Portfólio profissional bilíngue (PT/EN) com foco em análise, automação e vi
 <p align="center">
 ✨ Sempre evoluindo na jornada de dados.
 </p>
+
+---
+
+🤝 Vamos conversar?
+<p align="center"> Estou buscando uma oportunidade para aplicar dados na prática e crescer em um time de Analytics/BI.<br/> Me chame no <a href="https://www.linkedin.com/in/SEU-USUARIO">LinkedIn</a> ou por <a href="mailto:g.dias120306@gmail.com">e-mail</a>. 🚀 </p> <!-- FOOTER ANIMADO --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" />
